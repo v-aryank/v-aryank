@@ -7,16 +7,13 @@ Hi, I'm V. Aryan Kabir — an Electrical & Electronic Engineering student passio
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=v-aryank&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400"/>
-</p>
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=v-aryank&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=v-aryank&theme=dark&no-frame=false&no-bg=true&margin-w=4)
@@ -24,8 +21,8 @@ Hi, I'm V. Aryan Kabir — an Electrical & Electronic Engineering student passio
 ### ✍️ Dev Quote
 ![Quote](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Code.+Create.+Innovate.;Build+AI+Systems.;Think+Like+an+Engineer.)
 
-## 🔝 Top Contributed Repo
-![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=v-aryank&repo=SIRA_3.0&theme=tokyonight)
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=v-aryank&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=v-aryank&icon=0&color=1)](https://visitcount.itsvg.in)
 
