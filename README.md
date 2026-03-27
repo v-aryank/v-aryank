@@ -10,20 +10,22 @@ Hi, I'm V. Aryan Kabir — an Electrical & Electronic Engineering student passio
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=v-aryank&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=v-aryank&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400"/>
 </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=v-aryank&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ Dev Quote
+![Quote](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Code.+Create.+Innovate.;Build+AI+Systems.;Think+Like+an+Engineer.)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=v-aryank&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+## 🔝 Top Contributed Repo
+![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=v-aryank&repo=SIRA_3.0&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=v-aryank&icon=0&color=1)](https://visitcount.itsvg.in)
 
