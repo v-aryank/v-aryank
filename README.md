@@ -10,16 +10,16 @@ Hi, I'm V. Aryan Kabir — an Electrical & Electronic Engineering student passio
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=v-aryank&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=v-aryank&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=v-aryank&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=v-aryank&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
-![Quote](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Code.+Create.+Innovate.;Build+AI+Systems.;Think+Like+an+Engineer.)
+![Quote](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Think.+Create.+Innovate.;Turn+Thoughts+into+Tech.;Think+Like+an+Innovator.)
 
 ### 🔝 Top Contributed Repo 
 ![](https://github-contributor-stats.vercel.app/api?username=v-aryank&limit=5&theme=dark&combine_all_yearly_contributions=true)
