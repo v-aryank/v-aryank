@@ -15,15 +15,7 @@ Hi, I'm V. Aryan Kabir — an Electrical & Electronic Engineering student passio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=v-aryank&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Dev Quote
 ![Quote](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Think.+Create.+Innovate.;Turn+Thoughts+into+Tech.;Think+Like+an+Innovator.)
-
-### 🔝 Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=v-aryank&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=v-aryank&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
