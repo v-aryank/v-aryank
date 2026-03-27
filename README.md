@@ -1,4 +1,3 @@
-# #Intro :-
 Hi, I'm V. Aryan Kabir — an Electrical & Electronic Engineering student passionate about innovation, development, robotics, and AI-driven systems.<br><br>-  Currently developing: ** Project **SIRA (Research Assistant AI)** <br>-  I also work on: **Web Development (Frontend + Basic Full-Stack Concepts)**<br>-  Core focus: **Embedded Systems, IoT, Automation, Web Systems & Intelligent Assistants**<br>-  Open to collaborate on: **Web Development Projects, AI, Robotics, and Innovative Tech Solutions**<br><br>## 🚀 Projects<br><br>- 🔹 **Nexus 2.0** – Central Control Hub for IVIRAS  <br>- 🔹 **SIRA 0.1** – Smart Research & Lab Assistant  <br>- 🔹 **ARYTHIC** – A Platform for Digital Solutions, Ideas, and Research. Link: https://www.arythic.com/<br><br>---<br>
 
 ## 🌐 Socials:
