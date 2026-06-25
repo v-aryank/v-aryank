@@ -2,11 +2,14 @@
 Hi, I'm <b><i>V. Aryan Kabir</i></b> — an Electrical & Electronic Engineering student passionate about innovation, development, robotics, and AI-driven systems.<br><br>-  Currently developing: ** Project **SIRA (Research Assistant AI)** <br>-  I also work on: **Web Development (Frontend + Basic Full-Stack Concepts)**<br>-  Core focus: **Embedded Systems, IoT, Automation, Web Systems & Intelligent Assistants**<br>-  Open to collaborate on: **Web Development Projects, AI, Robotics, and Innovative Tech Solutions**<br><br>## 🚀 Projects<br><br>- 🔹 **Nexus 2.0** – Central Control Hub for IVIRAS  <br>- 🔹 **SIRA 0.1** – Smart Research & Lab Assistant  <br>- 🔹 **ARYTHIC** – A Platform for Digital Solutions, Ideas, and Research. Link: https://www.arythic.com/<br><br>---<br>
 
 ## 📊 GitHub Stats:
-<p>
-<img src="https://github-readme-stats-green-nine-93.vercel.app/api?username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=2" width="400"/>
-<img src="https://streak-stats.demolab.com?user=v-aryank&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" width="400"/>
-<img src="https://github-readme-stats-green-nine-93.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" width="400"/>
-</p>
+
+| GitHub Stats |
+| --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="400" alt="GitHub Stats" /> |
+
+| Current Streak | Most Used Languages |
+| --- | --- |
+| <img src="https://streak-stats.demolab.com/?user=v-aryank&theme=tokyonight&hide_border=true&cache_seconds=1800" width="550" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-aryank&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400" alt="Most Used Languages" /> |
 
 #
 
