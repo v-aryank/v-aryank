@@ -24,11 +24,11 @@ I work mainly around modern Web & Software development, Personal AI assistant, A
 
 | GitHub Stats |
 | --- |
-| <img src="./profile/stats.svg" width="400" alt="GitHub Stats" /> |
+| <img src="./profile/stats.svg?v=2" width="400" alt="GitHub Stats" /> |
 
 | Current Streak | Most Used Languages |
 | --- | --- |
-| <img src="./profile/streak.svg" width="550" alt="GitHub Streak" /> | <img src="./profile/top-langs.svg" width="400" alt="Most Used Languages" /> |
+| <img src="./profile/streak.svg" width="550" alt="GitHub Streak" /> | <img src="./profile/top-langs.svg?v=2" width="400" alt="Most Used Languages" /> |
 
 ---
 
