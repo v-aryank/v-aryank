@@ -1,0 +1,57 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=v-aryank&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Streak
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: "user=v-aryank&theme=tokyonight&hide_border=true&disable_animations=true"
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/stats.svg
+          git add profile/top-langs.svg
+          git add profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub stats"
+          git push
