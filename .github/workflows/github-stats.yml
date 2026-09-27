@@ -1,6 +1,11 @@
 name: Update GitHub Stats
 
 on:
+  schedule:
+    # Runs daily at 03:00 UTC
+    - cron: "0 3 * * *"
+
+  # Allows manual execution from GitHub Actions
   workflow_dispatch:
 
 jobs:
@@ -17,14 +22,16 @@ jobs:
       - name: Create profile directory
         run: mkdir -p profile
 
+      # Generate GitHub Stats card
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=v-aryank&show_icons=true&theme=tokyonight&hide_border=true
+          options: username=v-aryank&custom_title=V.%20Aryan%20%7C%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Generate Top Languages card
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -33,6 +40,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Commit only when the generated SVGs actually changed
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
@@ -46,5 +54,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update GitHub stats"
+          git commit -m "chore: update GitHub stats"
           git push
