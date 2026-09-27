@@ -6,7 +6,7 @@
 
 - Building modern web applications and software projects
 - Exploring AI/ML and intelligent assistant systems
-- Working on Personal Assistant Programme
+- Developing Personal Assistant Programme
 
 
 ### 🌐 Portfolio
