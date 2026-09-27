@@ -1,11 +1,6 @@
-##  #<i>Intro</i> :-
-## Hi, I'm V. Aryan Kabir
+## Hi, I'm V. Aryan
 
 ***Web & Software Developer | AI/ML • Embedded Systems • Robotics***
-
-I enjoy turning ideas into practical software, intelligent systems, and interactive web experiences.
-
-I work mainly around modern Web & Software development, Personal AI assistant, AI-assisted software, embedded systems, and experimental engineering projects. I like building things that are useful, well-designed, and actually work.
 
 ###  Currently Working On
 
@@ -20,7 +15,7 @@ I work mainly around modern Web & Software development, Personal AI assistant, A
 
 ---
 
-## 📊 GitHub Stats
+## | GitHub Stats
 
 | GitHub Stats |
 | --- |
