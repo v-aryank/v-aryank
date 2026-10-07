@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">V. Aryan | GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 17, Total Commits  (last year) : 153, Total PRs: 2, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  (last year) : 153, Total PRs: 1, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 211.96762209693142;
+        stroke-dashoffset: 213.76799920137663;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >17</text>
+      >16</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >2</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
